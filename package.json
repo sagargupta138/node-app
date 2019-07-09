@@ -1,0 +1,15 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "most basic node app",
+  "main": "index.js",
+  "author": "Sagar Gupta",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
